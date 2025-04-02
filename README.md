@@ -22,7 +22,8 @@ This document outlines key topics and concepts for preparing for a Frontend Engi
 - **Event Loop & Microtasks**: Manages async code with call stack, microtasks (e.g., Promises), and macrotasks (e.g., `setTimeout`).
   - Example: `console.log(1); Promise.resolve().then(() => console.log(2)); console.log(3);` → `1, 3, 2`.
 
-### 2. Functions & Objects
+### 2. [Functions & Objects](https://medium.com/@charaneie22/functions-objects-e68f419fc9e0)
+(https://medium.com/@charaneie22/functions-objects-e68f419fc9e0)
 - **Call, Apply, Bind**: Methods to control `this` and arguments.
   - `call`/`apply` invoke immediately; `bind` returns a new function.
 - **Function Currying**: Transform multi-argument functions into a sequence of single-argument functions.
