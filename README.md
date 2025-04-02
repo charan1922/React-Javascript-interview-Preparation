@@ -6,7 +6,8 @@ This document outlines key topics and concepts for preparing for a Frontend Engi
 
 ## JavaScript Fundamentals
 
-### 1. Core Concepts
+### 1. [Core Concepts](https://medium.com/@charaneie22/core-concepts-of-javascript-57c1901ca41e)
+[(https://medium.com/@charaneie22/core-concepts-of-javascript-57c1901ca41e)]((https://medium.com/@charaneie22/core-concepts-of-javascript-57c1901ca41e)) - 
 - **Hoisting**: Variable/function declarations are moved to the top of their scope.
   - `var` is hoisted and initialized to `undefined`.
   - `let`/`const` are hoisted but remain in a Temporal Dead Zone (TDZ) until declared.
